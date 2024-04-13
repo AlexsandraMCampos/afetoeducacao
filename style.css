@@ -93,7 +93,7 @@ main {
 }
 
 /* estilização .sessao-um */
-.sessao-um {
+.sessao-um  {
     width: 90vw;
     display: flex;
     margin-top: 15px;
@@ -102,10 +102,10 @@ main {
     border-radius: 5px;
 }
 
-.info-particular {
+.info-particular{
     display: flex;
     flex-direction: column;
-    justify-content: space-around;
+    justify-content: space-around
     padding: 20px;
     gap: 10px;
 
